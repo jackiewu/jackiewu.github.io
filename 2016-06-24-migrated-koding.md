@@ -1,4 +1,4 @@
-## Koding Sole 轉移至 Koding for team
+## Koding Solo 轉移至 Koding for team
 
 從去年就開始付費使用的koding，在今年宣布轉移成協同開發線上平台，不再提供空間或任何VM。
 
